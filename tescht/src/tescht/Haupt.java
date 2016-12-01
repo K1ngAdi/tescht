@@ -7,7 +7,11 @@ public class Haupt {
 		System.out.println("oder etwa nicht?");
 		//Mensch andre das muss doch gehen
 		System.out.println("Alles rogger");
+
 		System.out.println("in Tokio");//asdfasaasad
+
+		System.out.println("In Cambodscha");
+
 	}
 
 }
